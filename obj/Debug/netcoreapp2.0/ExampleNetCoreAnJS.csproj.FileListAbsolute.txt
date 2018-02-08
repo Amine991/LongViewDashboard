@@ -1,0 +1,10 @@
+C:\Users\MaZaouia\source\repos\ExampleNetCoreAnJS\ExampleNetCoreAnJS\bin\Debug\netcoreapp2.0\ExampleNetCoreAnJS.deps.json
+C:\Users\MaZaouia\source\repos\ExampleNetCoreAnJS\ExampleNetCoreAnJS\bin\Debug\netcoreapp2.0\ExampleNetCoreAnJS.runtimeconfig.json
+C:\Users\MaZaouia\source\repos\ExampleNetCoreAnJS\ExampleNetCoreAnJS\bin\Debug\netcoreapp2.0\ExampleNetCoreAnJS.runtimeconfig.dev.json
+C:\Users\MaZaouia\source\repos\ExampleNetCoreAnJS\ExampleNetCoreAnJS\bin\Debug\netcoreapp2.0\ExampleNetCoreAnJS.dll
+C:\Users\MaZaouia\source\repos\ExampleNetCoreAnJS\ExampleNetCoreAnJS\bin\Debug\netcoreapp2.0\ExampleNetCoreAnJS.pdb
+C:\Users\MaZaouia\source\repos\ExampleNetCoreAnJS\ExampleNetCoreAnJS\obj\Debug\netcoreapp2.0\ExampleNetCoreAnJS.csproj.CoreCompileInputs.cache
+C:\Users\MaZaouia\source\repos\ExampleNetCoreAnJS\ExampleNetCoreAnJS\obj\Debug\netcoreapp2.0\ExampleNetCoreAnJS.AssemblyInfoInputs.cache
+C:\Users\MaZaouia\source\repos\ExampleNetCoreAnJS\ExampleNetCoreAnJS\obj\Debug\netcoreapp2.0\ExampleNetCoreAnJS.AssemblyInfo.cs
+C:\Users\MaZaouia\source\repos\ExampleNetCoreAnJS\ExampleNetCoreAnJS\obj\Debug\netcoreapp2.0\ExampleNetCoreAnJS.dll
+C:\Users\MaZaouia\source\repos\ExampleNetCoreAnJS\ExampleNetCoreAnJS\obj\Debug\netcoreapp2.0\ExampleNetCoreAnJS.pdb
